@@ -78,9 +78,10 @@ border: 4px solid black;
 }
 
 .sub-heading{
-  font-size: small;
+  font-size: x-small;
   text-align: center;
   color: #F5D6A8;
   margin-top: -30px;
   font-family: Futura Md BT;
+  letter-spacing: 4px;
 }
